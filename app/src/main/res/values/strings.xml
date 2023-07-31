@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Convinence</string>
+    <string name="id_cart">Cart</string>
+    <string name="todo">TODO</string>
+    <string name="add_To_Cart">ADD TO CART</string>
+    <string name="radioButton_Delivery">Delivery</string>
+    <string name="radioButton_Curbside">Curbside</string>
+    <string name="string_Quantity">Qty:</string>
+    <string name="string_Books">Book</string>
+    <string name="string_Accessories">Accessories</string>
+    <string name="string_Bags">Bags</string>
+    <string name="string_Devices">Devices</string>
+    <string name="string_Discount">Discount</string>
+    <string name="cart_Title">Cart</string>
+    <string name="qty_changeOption">"Quantity: "</string>
+    <string name="itemTextStr">Item</string>
+    <string name="quantityTextStr">Qty</string>
+    <string name="subTotalTextStr">SubTotal</string>
+    <string name="item1Str">Mayer</string>
+    <string name="checkoutButtonStr">CHECKOUT</string>
+    <string name="quantity1Str">1</string>
+    <string name="itemPrice">$22.99</string>
+    <string name="radioButton_delivery">Delivery</string>
+    <string name="totalPrice">Total Price:</string>
+    <string name="discountBtn">Discount Websites</string>
+    <string-array name="itemQuantity">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+</resources>
